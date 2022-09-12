@@ -40,8 +40,6 @@ GIF created with ...  LICEcap
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 Android app kept on crashing when trying to run it.
 
 ## License
